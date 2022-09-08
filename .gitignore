@@ -1,0 +1,13 @@
+.idea
+*.DS_Store
+/vendor
+/coverage
+.editorconfig
+.gitattributes
+.php_cs
+.phpunit.result.cache
+phpunit.xml.dist
+sftp-config.json
+composer.lock
+.subsplit
+.php_cs.cache
